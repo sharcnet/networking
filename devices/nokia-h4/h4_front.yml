@@ -1,0 +1,13 @@
+---
+anchors:
+  thresholds-operstate: &thresholds-operstate
+    - color: "#FF3154" # red
+      level: 0
+    - color: "#4BDD33" # green
+      level: 1
+cellIdPreamble: cell-
+cells:
+  e1-1:
+    dataRef: interface_oper_state:e1-1
+    fillColor:
+      thresholds: *thresholds-operstate
