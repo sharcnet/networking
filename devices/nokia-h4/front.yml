@@ -1,0 +1,265 @@
+---
+anchors:
+  thresholds-operstate: &thresholds-operstate
+    - color: "#FF3154" # red
+      level: 0
+    - color: "#4BDD33" # green
+      level: 1
+cellIdPreamble: cell-
+cells:
+  e1-1:
+    dataRef: interface_oper_state:e1-1
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-2:
+    dataRef: interface_oper_state:e1-2
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-3:
+    dataRef: interface_oper_state:e1-3
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-4:
+    dataRef: interface_oper_state:e1-4
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-5:
+    dataRef: interface_oper_state:e1-5
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-6:
+    dataRef: interface_oper_state:e1-6
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-7:
+    dataRef: interface_oper_state:e1-7
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-8:
+    dataRef: interface_oper_state:e1-8
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-9:
+    dataRef: interface_oper_state:e1-9
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-10:
+    dataRef: interface_oper_state:e1-10
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-11:
+    dataRef: interface_oper_state:e1-11
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-12:
+    dataRef: interface_oper_state:e1-12
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-13:
+    dataRef: interface_oper_state:e1-13
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-14:
+    dataRef: interface_oper_state:e1-14
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-15:
+    dataRef: interface_oper_state:e1-15
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-16:
+    dataRef: interface_oper_state:e1-16
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-17:
+    dataRef: interface_oper_state:e1-17
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-18:
+    dataRef: interface_oper_state:e1-18
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-19:
+    dataRef: interface_oper_state:e1-19
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-20:
+    dataRef: interface_oper_state:e1-20
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-21:
+    dataRef: interface_oper_state:e1-21
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-22:
+    dataRef: interface_oper_state:e1-22
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-23:
+    dataRef: interface_oper_state:e1-23
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-24:
+    dataRef: interface_oper_state:e1-24
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-25:
+    dataRef: interface_oper_state:e1-25
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-26:
+    dataRef: interface_oper_state:e1-26
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-27:
+    dataRef: interface_oper_state:e1-27
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-28:
+    dataRef: interface_oper_state:e1-28
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-29:
+    dataRef: interface_oper_state:e1-29
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-30:
+    dataRef: interface_oper_state:e1-30
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-31:
+    dataRef: interface_oper_state:e1-31
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-32:
+    dataRef: interface_oper_state:e1-32
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-33:
+    dataRef: interface_oper_state:e1-33
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-34:
+    dataRef: interface_oper_state:e1-34
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-35:
+    dataRef: interface_oper_state:e1-35
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-36:
+    dataRef: interface_oper_state:e1-36
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-37:
+    dataRef: interface_oper_state:e1-37
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-38:
+    dataRef: interface_oper_state:e1-38
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-39:
+    dataRef: interface_oper_state:e1-39
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-40:
+    dataRef: interface_oper_state:e1-40
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-41:
+    dataRef: interface_oper_state:e1-41
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-42:
+    dataRef: interface_oper_state:e1-42
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-43:
+    dataRef: interface_oper_state:e1-43
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-44:
+    dataRef: interface_oper_state:e1-44
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-45:
+    dataRef: interface_oper_state:e1-45
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-46:
+    dataRef: interface_oper_state:e1-46
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-47:
+    dataRef: interface_oper_state:e1-47
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-48:
+    dataRef: interface_oper_state:e1-48
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-49:
+    dataRef: interface_oper_state:e1-49
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-50:
+    dataRef: interface_oper_state:e1-50
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-51:
+    dataRef: interface_oper_state:e1-51
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-52:
+    dataRef: interface_oper_state:e1-52
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-53:
+    dataRef: interface_oper_state:e1-53
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-54:
+    dataRef: interface_oper_state:e1-54
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-55:
+    dataRef: interface_oper_state:e1-55
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-56:
+    dataRef: interface_oper_state:e1-56
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-57:
+    dataRef: interface_oper_state:e1-57
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-58:
+    dataRef: interface_oper_state:e1-58
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-59:
+    dataRef: interface_oper_state:e1-59
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-60:
+    dataRef: interface_oper_state:e1-60
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-61:
+    dataRef: interface_oper_state:e1-61
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-62:
+    dataRef: interface_oper_state:e1-62
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-63:
+    dataRef: interface_oper_state:e1-63
+    fillColor:
+      thresholds: *thresholds-operstate
+  e1-64:
+    dataRef: interface_oper_state:e1-64
+    fillColor:
+      thresholds: *thresholds-operstate
