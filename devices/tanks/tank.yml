@@ -7,28 +7,339 @@ anchors:
       level: 1
 cellIdPreamble: cell-
 cells:
+  U01B:
+    dataRef: status:U01B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U02B:
+    dataRef: status:U02B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U03B:
+    dataRef: status:U03B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U04B:
+    dataRef: status:U04B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U05B:
+    dataRef: status:U05B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U06B:
+    dataRef: status:U06B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U07B:
+    dataRef: status:U07B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U08B:
+    dataRef: status:U08B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U09B:
+    dataRef: status:U09B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U10B:
+    dataRef: status:U10B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U11B:
+    dataRef: status:U11B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U12B:
+    dataRef: status:U12B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U13B:
+    dataRef: status:U13B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U14B:
+    dataRef: status:U14B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U15B:
+    dataRef: status:U15B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U16B:
+    dataRef: status:U16B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U17B:
+    dataRef: status:U17B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U18B:
+    dataRef: status:U18B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U19B:
+    dataRef: status:U19B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U20B:
+    dataRef: status:U20B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U21B:
+    dataRef: status:U21B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U22B:
+    dataRef: status:U22B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U23B:
+    dataRef: status:U23B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U24B:
+    dataRef: status:U24B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U25B:
+    dataRef: status:U25B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U26B:
+    dataRef: status:U26B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U27B:
+    dataRef: status:U27B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U28B:
+    dataRef: status:U28B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U29B:
+    dataRef: status:U29B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U30B:
+    dataRef: status:U30B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U31B:
+    dataRef: status:U31B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U32B:
+    dataRef: status:U32B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U33B:
+    dataRef: status:U33B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U34B:
+    dataRef: status:U34B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U35B:
+    dataRef: status:U35B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U36B:
+    dataRef: status:U36B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U37B:
+    dataRef: status:U37B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U38B:
+    dataRef: status:U38B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U39B:
+    dataRef: status:U39B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U40B:
+    dataRef: status:U40B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U41B:
+    dataRef: status:U41B
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U42B:
+    dataRef: status:U42B
+    fillColor:
+      thresholds: *thresholds-operstate
   U01F:
     dataRef: status:U01F
     fillColor:
-      thresholds: *thresholds-operstate
+      thresholds: *thresholds-operstate  
   U02F:
     dataRef: status:U02F
     fillColor:
-      thresholds: *thresholds-operstate
+      thresholds: *thresholds-operstate  
   U03F:
     dataRef: status:U03F
     fillColor:
-      thresholds: *thresholds-operstate
+      thresholds: *thresholds-operstate  
   U04F:
     dataRef: status:U04F
     fillColor:
-      thresholds: *thresholds-operstate
+      thresholds: *thresholds-operstate  
   U05F:
     dataRef: status:U05F
     fillColor:
-      thresholds: *thresholds-operstate
+      thresholds: *thresholds-operstate  
   U06F:
     dataRef: status:U06F
     fillColor:
-      thresholds: *thresholds-operstate
-
+      thresholds: *thresholds-operstate  
+  U07F:
+    dataRef: status:U07F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U08F:
+    dataRef: status:U08F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U09F:
+    dataRef: status:U09F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U10F:
+    dataRef: status:U10F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U11F:
+    dataRef: status:U11F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U12F:
+    dataRef: status:U12F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U13F:
+    dataRef: status:U13F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U14F:
+    dataRef: status:U14F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U15F:
+    dataRef: status:U15F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U16F:
+    dataRef: status:U16F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U17F:
+    dataRef: status:U17F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U18F:
+    dataRef: status:U18F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U19F:
+    dataRef: status:U19F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U20F:
+    dataRef: status:U20F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U21F:
+    dataRef: status:U21F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U22F:
+    dataRef: status:U22F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U23F:
+    dataRef: status:U23F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U24F:
+    dataRef: status:U24F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U25F:
+    dataRef: status:U25F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U26F:
+    dataRef: status:U26F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U27F:
+    dataRef: status:U27F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U28F:
+    dataRef: status:U28F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U29F:
+    dataRef: status:U29F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U30F:
+    dataRef: status:U30F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U31F:
+    dataRef: status:U31F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U32F:
+    dataRef: status:U32F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U33F:
+    dataRef: status:U33F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U34F:
+    dataRef: status:U34F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U35F:
+    dataRef: status:U35F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U36F:
+    dataRef: status:U36F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U37F:
+    dataRef: status:U37F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U38F:
+    dataRef: status:U38F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U39F:
+    dataRef: status:U39F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U40F:
+    dataRef: status:U40F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U41F:
+    dataRef: status:U41F
+    fillColor:
+      thresholds: *thresholds-operstate  
+  U42F:
+    dataRef: status:U42F
+    fillColor:
+      thresholds: *thresholds-operstate  
