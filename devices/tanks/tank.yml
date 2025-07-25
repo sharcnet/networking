@@ -1,0 +1,34 @@
+---
+anchors:
+  thresholds-operstate: &thresholds-operstate
+    - color: "#FF3154" # red
+      level: 0
+    - color: "#4BDD33" # green
+      level: 1
+cellIdPreamble: cell-
+cells:
+  U01F:
+    dataRef: status:U01F
+    fillColor:
+      thresholds: *thresholds-operstate
+  U02F:
+    dataRef: status:U02F
+    fillColor:
+      thresholds: *thresholds-operstate
+  U03F:
+    dataRef: status:U03F
+    fillColor:
+      thresholds: *thresholds-operstate
+  U04F:
+    dataRef: status:U04F
+    fillColor:
+      thresholds: *thresholds-operstate
+  U05F:
+    dataRef: status:U05F
+    fillColor:
+      thresholds: *thresholds-operstate
+  U06F:
+    dataRef: status:U06F
+    fillColor:
+      thresholds: *thresholds-operstate
+
