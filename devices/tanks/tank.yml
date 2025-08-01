@@ -3,8 +3,10 @@ anchors:
   thresholds-operstate: &thresholds-operstate
     - color: "#FF3154" # red
       level: 0
-    - color: "#4BDD33" # green
+    - color: "F5A327: #amber
       level: 1
+    - color: "#4BDD33" # green
+      level: 2
 cellIdPreamble: cell-
 cells:
   U01B:
